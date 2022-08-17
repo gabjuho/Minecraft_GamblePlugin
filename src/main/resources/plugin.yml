@@ -1,0 +1,5 @@
+name: GamblePlugin
+version: 1.19
+author: gabjuho
+main: com.gabjuho.GamblePlugin.Main
+api-version: 1.19
